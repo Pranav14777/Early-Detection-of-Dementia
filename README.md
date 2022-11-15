@@ -1,1 +1,2 @@
 # Early-Detection-of-Dementia
+Detection of Dementia before it gets chronic is the motive of this research. To achieve this,transcripts of patients were analyzed using Bi-directional encoder representation of transformers.Bert performs contextual encoding and makes sure that the prediction is accurate.To ensure that BERT provides better efficiency,it's results were compared with those provided by LSTM architecture.
